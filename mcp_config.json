@@ -1,0 +1,14 @@
+{
+  "claude-skill-tree": {
+    "command": "node",
+    "args": ["D:\\AI-ML-Projects\\Claude\\claude-skill-tree\\index.js"],
+    "env": {
+      "SKILL_TRACKING": "enabled",
+      "HARVEY_MODE": "true",
+      "ANALYTICS_MODE": "enhanced",
+      "DB_PATH": "D:\\AI-ML-Projects\\Claude\\claude-skill-tree\\data\\skill_tree.db",
+      "ONTOLOGY_FIRST": "true",
+      "LIMITATION_OVERRIDE": "active"
+    }
+  }
+}
